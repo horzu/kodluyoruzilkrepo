@@ -7,7 +7,9 @@ Bu repo [Kodluyoruz](https://app.patika.dev/) Front-End Eğitiminde oluşturduğ
 ## Installation
 
 Öncelikle projeyi clonelayın.
-`git clone https://github.com/horzu/kodluyoruzilkrepo.git`
+`
+git clone https://github.com/horzu/kodluyoruzilkrepo.git
+`
 
 ## Usage
 
